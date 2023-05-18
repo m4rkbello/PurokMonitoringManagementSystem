@@ -1,0 +1,37 @@
+
+/* Custom styles */
+body {
+    /* background-image: linear-gradient(to bottom, #000000, #000000, #16FF00); */
+    background-color: white;
+  color: black;
+  box-shadow: 1px 5px 7px 0px black;
+  overflow: hidden;
+}
+
+.sidebar {
+  background-image: linear-gradient(to bottom, #000000, #000000, #16FF00);
+  color: #917FB3;
+  height: 100vh;
+  box-shadow: 1px 5px 7px 0px black;
+}
+
+.sidebar .nav-link {
+  color: #fff;
+
+}
+
+
+.sidebar .nav-link:hover {
+    background-color: #16FF00;
+    color: #fff;
+  
+  }
+
+.content {
+  padding: 20px;
+}
+
+.navbar-custom{
+    background-color: #000000;
+    box-shadow: 1px 10px 15px 0px white;
+}
